@@ -1,2 +1,2 @@
 # SuperFeda's calculator
-The coolest calculator written in Python. Translated into Russian (EN), English (EN), Chinese (CH) and German (DE).
+The coolest calculator written in Python. Translated into Russian (RU), English (EN), Chinese (CH) and German (DE).
